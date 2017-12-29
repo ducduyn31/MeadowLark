@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="hjs" type="HTML" />
+      <mapping ext="map" type="PLAIN_TEXT" />
       <mapping pattern=".ember-cli" type="TSLint" />
     </extensionMap>
   </component>
