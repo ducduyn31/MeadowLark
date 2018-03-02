@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="$FilePathRelativeToProjectRoot$ --out-dir dist --source-maps --presets env" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -13,9 +13,9 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="F:/MyWeb/NodeCentralization/node_modules/.bin/babel" />
+      <option name="program" value="F:/MyWeb/KosmeticsKingdom/node_modules/.bin/babel.cmd" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="NodeCentralization" />
+      <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ContentRoot$" />
       <envs />
