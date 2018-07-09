@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="hjs" type="HTML" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="log___jb_old___" type="PLAIN_TEXT" />
       <mapping pattern=".ember-cli" type="TSLint" />
